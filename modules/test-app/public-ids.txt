@@ -1,0 +1,2 @@
+com.example.aapt2stableidsbugdemo:string/first_resource = 0x7f010000
+com.example.aapt2stableidsbugdemo:string/last_resource = 0x7f01ffff
